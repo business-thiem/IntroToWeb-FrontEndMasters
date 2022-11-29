@@ -10,4 +10,4 @@ popmotion.animate({
     onUpdate(update) {
         ball.style.top = update;
     }
-});
+}); 
